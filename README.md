@@ -1,5 +1,6 @@
 # Walmart-Python_SQL_Project
 In this project, I utilized the Kaggle API to extract data directly into a Python virtual environment. After setting up the environment and importing essential libraries, I conducted thorough data cleaning and formatting using Python to ensure data quality and consistency. I then established a seamless connection between Python and PostgreSQL to integrate the refined data. By leveraging SQL queries, I effectively analyzed the data within the PostgreSQL database, addressing key business problems with actionable insights. This project demonstrates my ability to work with data extraction, transformation, and database management, showcasing strong skills in both Python and SQL for data analysis.
+ <a href="https://github.com/ridumjeetsingh/Walmart-Python_SQL_Project/blob/main/walmart-Image.jpg"> </a>
 
 ## Project Steps
 1. Set Up the Environment
