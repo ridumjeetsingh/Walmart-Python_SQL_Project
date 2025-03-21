@@ -16,7 +16,7 @@ In this project, I utilized the Kaggle API to extract data directly into a Pytho
 
 3. Download Walmart Sales Data
   Data Source: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
-  Dataset Link: - <a href="https://github.com/ridumjeetsingh/Walmart-Python_SQL_Project/blob/main/Walmart.csv"> Walmart Data Set 1 </a> 
+  Dataset Link: - <a href="https://github.com/ridumjeetsingh/Walmart-Python_SQL_Project/blob/main/Walmart.csv"> Walmart Data Set</a> 
   Storage: Save the data in the data/ folder for easy reference and access.
 
 4. Install Required Libraries and Load Data
