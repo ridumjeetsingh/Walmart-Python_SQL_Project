@@ -89,39 +89,39 @@ To kick off the SQL portion, I began by understanding the dataset structure, ide
 
 1. Payment Method Analysis:
 
-    Identified distinct payment methods and calculated total transactions and quantity sold for each.
+    -Identified distinct payment methods and calculated total transactions and quantity sold for each.
 
 2. Highest-Rated Category:
 
-    Determined the top-rated product category in each branch based on average ratings.
+    -Determined the top-rated product category in each branch based on average ratings.
 
 3. Busiest Day Identification:
 
-    Found the busiest day for each branch by analyzing transaction counts.
+    -Found the busiest day for each branch by analyzing transaction counts.
 
 4. Total Quantity by Payment Method:
 
-    Calculated total item quantity sold per payment method.
+    -Calculated total item quantity sold per payment method.
 
 5. Category Ratings Analysis:
 
-    Evaluated average, minimum, and maximum ratings for each category across cities.
+    -Evaluated average, minimum, and maximum ratings for each category across cities.
 
 6. Profit Analysis:
 
-    Computed total profit by multiplying unit price, quantity, and profit margin, listing categories by highest profit.
+    -Computed total profit by multiplying unit price, quantity, and profit margin, listing categories by highest profit.
 
 7. Most Common Payment Method by Branch:
 
-    Identified the preferred payment method in each branch based on transaction counts.
+    -Identified the preferred payment method in each branch based on transaction counts.
 
 8. Sales Shift Analysis:
 
-    Categorized sales data into Morning, Afternoon, and Evening shifts and calculated invoice counts for each period.
+    -Categorized sales data into Morning, Afternoon, and Evening shifts and calculated invoice counts for each period.
 
 9. Revenue Decrease Analysis:
 
-    Identified the top 5 branches with the highest revenue decrease ratio by comparing sales data from 2022 to 2023.
+    -Identified the top 5 branches with the highest revenue decrease ratio by comparing sales data from 2022 to 2023.
 ```sql
   
 
