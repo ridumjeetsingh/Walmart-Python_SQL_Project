@@ -24,7 +24,7 @@ In this project, I utilized the Kaggle API to extract data directly into a Pytho
   ```
   pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
   ```
-5.Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
+5. Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
 6. Explore the Data
   Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
